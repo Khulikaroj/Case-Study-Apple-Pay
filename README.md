@@ -44,5 +44,12 @@ In the case of Apple Pay, EMV takes the form of a process known as "tokenization
 ---
 
 ### Future
-Apple Pay as of Oct 20, 2014, had 12 million active users- 1 million in the US within the first 3 days- 3 million in China in the first 2 days versus 5 million users in US & Korea in 6 months. Apple Pay is on pace to account for 10% of all global card transactions; Apple Pay currently accounts for 5% of global card transactions and that number will double by 2025.
-While it may not seem like Apple Pay will monopolize card transactions any time soon, 5% is a big number considering the number of players in the space and many ways to pay. In the last three months of 2019, Apple’s service unit Apple Pay created $12.7 billion in revenue, which is a 17% increase from the same period a year earlier.
+> *"according to research & markets.com, a recent survey shows that nearly one-third of consumers in the USA became first-time users of contactless payments during the pandemic"*
+
+Contactless card payments in the U.S. are projected to increase eight-fold between 2020 and 2024, and mobile proximity payments are also rising rapidly. Apple Pay accounts for about 5% of global card transactions and is on pace to handle 1-in-10 such payments by 2025, according to recent trend data compiled by Bernstein, a research firm. “There are indeed plenty of reasons to worry that Apple may attempt to disrupt the payments ecosystem,” Bernstein analysts, led by Harshita Rawat, wrote in a research note.
+
+The digital payments race is an immense opportunity, representing about $1 trillion in revenue around world. Visa and MasterCard process more than $14 trillion of payments each year and are still growing as more transactions go online, flow through apps, and as consumers in many parts of the world use cash less often.
+
+![Capture.JPG](Capture.JPG)
+
+Apple Pay makes money by taking a sliver of each transaction that runs through the device. Users can store their credit and debit cards on the wallet and use it to make contactless payments—beefed up with biometric security—through their phone’s near-field communication (NFC) tech. In the US, contactless payments are forecast to increase to $1.5 trillion in 2024, up from $178 billion this year, according to Juniper Research.
